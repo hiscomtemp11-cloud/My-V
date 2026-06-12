@@ -1,0 +1,6 @@
+{
+  "name": "My V",
+  "description": "An intelligent voice recording, analysis, and community app with sentiment analysis and pro-grade tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
